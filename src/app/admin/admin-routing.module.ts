@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { AdminScreenComponent } from './screens/admin-screen/admin-screen/admin-screen.component';
+import { AdminScreenComponent } from './screens/admin-screen/admin-screen.component';
 
 const routes: Routes = [
   { 

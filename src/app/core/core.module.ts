@@ -16,7 +16,6 @@ const services: any = [
   declarations: [],
   imports: [
     CommonModule
-  ],
-  exports: [...services]
+  ]
 })
 export class CoreModule { }
