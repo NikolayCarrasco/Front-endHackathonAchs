@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { LoginComponent } from './comnponents/login/login/login.component';
+import { LoginComponent } from './comnponents/login/login.component';
 
 const components: any = [
   LoginComponent
